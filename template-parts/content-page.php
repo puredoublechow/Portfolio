@@ -16,7 +16,6 @@
 			<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 		</header><!-- .entry-header -->
 	<?php endif; ?>
-<p>Template part: content-page.php</p>
 	<?php halcyon_studios_post_thumbnail(); ?>
 
 	<div class="entry-content">

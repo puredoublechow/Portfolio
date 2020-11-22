@@ -403,7 +403,9 @@ select,
 optgroup,
 textarea {
 	color: #221d25;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	font-family: brandon-grotesque,sans-serif;
+	font-weight: 400;
+	font-style: normal;
 	font-size: 1rem;
 	/* line-height: 1.5; */
 }
@@ -496,7 +498,8 @@ h1.site-title a:hover {
 /* Elements
 --------------------------------------------- */
 body {
-	background: #fff;
+	background-image: url('images/Watusi.jpg');
+	background-size: 200%;
 }
 
 hr {
@@ -735,7 +738,7 @@ textarea {
 	padding: .6em;
 	border-radius: 30px;
 	background-image: url('https://assets.website-files.com/5bfd1275cc56e15ce750b18e/5c289afb9a1575609c893a29_06.%20Wisteria.jpg');
-	background-size: 200%;
+	background-size: 500%;
 	background-position: 15%;
 }
 
@@ -758,6 +761,7 @@ textarea {
 
 	.main-navigation ul {
 		display: flex;
+		align-items: center;
 	}
 }
 
@@ -812,6 +816,19 @@ textarea {
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;
+}
+
+/* Footer */
+footer.site-footer {
+	display: flex;
+	justify-content: center;
+	background-color: rgb(68, 68, 68);
+	padding: 20px;
+	color: white;
+}
+
+footer.site-footer a {
+	color: white;
 }
 
 /* Widgets

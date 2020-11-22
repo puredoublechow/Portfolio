@@ -10,11 +10,11 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Halcyon Studios.
+A custom theme called Halcyon Studios based on Underscores starter theme.
 
 == Description ==
 
-Lily Parmenter\'s Portfolio Theme
+Lily Parmenter's Portfolio Theme
 
 == Installation ==
 
