@@ -665,7 +665,9 @@ textarea {
 /*--------------------------------------------------------------
 # Layouts
 --------------------------------------------------------------*/
-
+/* #page {
+	height: 100vh;
+} */
 /*--------------------------------------------------------------
 # Components
 --------------------------------------------------------------*/
@@ -719,13 +721,27 @@ textarea {
 
 .main-navigation li {
 	position: relative;
-	padding: 0px 20px;
+	margin: 0px 20px;
 	font-size: 16pt;
 }
 
 .main-navigation a {
 	display: block;
 	text-decoration: none;
+}
+
+.mybtn {
+	text-transform: none;
+	padding: .6em;
+	border-radius: 30px;
+	background-image: url('https://assets.website-files.com/5bfd1275cc56e15ce750b18e/5c289afb9a1575609c893a29_06.%20Wisteria.jpg');
+	background-size: 200%;
+	background-position: 15%;
+}
+
+.mybtn a, .mybtn a:hover {
+	color: white;
+	border: none;
 }
 
 /* Small menu. */
