@@ -14,19 +14,7 @@ A custom theme called Halcyon Studios based on Underscores starter theme.
 
 == Description ==
 
-Lily Parmenter's Portfolio Theme
-
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-Halcyon Studios includes support for WooCommerce and for Infinite Scroll in Jetpack.
+Lily Parmenter's Custom Portfolio Theme
 
 == Changelog ==
 
